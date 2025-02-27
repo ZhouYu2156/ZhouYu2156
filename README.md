@@ -92,7 +92,7 @@
 
 <br clear="both">
 
-<img src="/maurodesouza/maurodesouza/raw/master/assets/tailwind-logo.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
 
