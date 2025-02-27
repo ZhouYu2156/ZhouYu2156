@@ -92,7 +92,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ZhouYu2156/ZhouYu2156/output/snake.svg" alt="Snake animation" />
+<img src="/maurodesouza/maurodesouza/raw/master/assets/tailwind-logo.svg" alt="Snake animation" />
 
 ###
 
