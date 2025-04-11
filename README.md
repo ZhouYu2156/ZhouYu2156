@@ -110,11 +110,13 @@
 ### Prototype Chain
 
 <a src="https://www.zhouyu2156.cn/proto/" target="_blank">
-<img src="./images/prototype.png" style="width: 800px; height: 450px;"/>
+<video autoplay muted src="./images/prototype.mp4" style="width: 800px; height: 450px;">你的浏览器不支持动画！</video>
 </a>
 
 <a src="https://www.zhouyu2156.cn/proto/" target="_blank">
-<video autoplay muted src="./images/prototype.mp4" style="width: 800px; height: 450px;"/>
+<img src="./images/prototype.png" style="width: 800px; height: 450px;"/>
 </a>
+
+
 
 
