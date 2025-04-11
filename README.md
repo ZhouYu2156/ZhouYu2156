@@ -109,5 +109,7 @@
 
 ### Prototype Chain
 
-<frame src="https://www.zhouyu2156.cn/proto/" />
+<iframe src="https://www.zhouyu2156.cn/proto/" width="100%" height="600">
+        您的浏览器不支持iframe标签。
+</iframe>
 
