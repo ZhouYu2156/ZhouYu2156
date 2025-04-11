@@ -107,5 +107,7 @@
 
 <p align="left">✨ Proficient in multiple skills with strong learning adaptability<br>🎓 Currently wrapping up graduation project while mastering Three.js 🚀<br>🌍 Fluent in daily English communication<br>💪 Committed to excellence with relentless passion for new tech</p>
 
-###
+### Prototype Chain
+
+<frame src="https://www.zhouyu2156.cn/proto/" />
 
