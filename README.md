@@ -114,7 +114,7 @@
 </a>
 
 <a src="https://www.zhouyu2156.cn/proto/" target="_blank">
-<video src="./images/prototype.mp4" style="width: 800px; height: 450px;"/>
+<video autoplay muted src="./images/prototype.mp4" style="width: 800px; height: 450px;"/>
 </a>
 
 
